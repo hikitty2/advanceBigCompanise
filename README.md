@@ -52,4 +52,5 @@ description: 帮助前端工程师们夯实技术以通过一线互联网企业�
    - [《深入 React 技术栈》](https://book.douban.com/subject/26918038/)_`外链`_
    
 ### 面经
-   - [新东方](https://juejin.im/post/5e7c4b69f265da42ea70de57#heading-9)_`外链`_
+   - [新东方](https://juejin.im/post/5eaa7b7d6fb9a0432e5debc3)_`外链`_
+   - [csdn](https://juejin.im/post/5ecf51985188254305605d32)_`外链`_
