@@ -27,11 +27,7 @@ description: 帮助前端工程师们夯实技术以通过一线互联网企业�
 1. 面试时高频率出现的算法
    - [十大排序算法](2/2.1.1.md)_`updating…`_
 
-### react相关
-
-1:[setState的同步于异步](https://juejin.im/post/5e6c35a65188254953721691)_`外链`_
-
-### 肆、主流框架
+### 叁、主流框架
 
 1. 综合比较
    - jQuery 相对现在流行的库而言过时了吗？
@@ -39,6 +35,7 @@ description: 帮助前端工程师们夯实技术以通过一线互联网企业�
 2. React
    - React Hooks 究竟是什么？
    - React 的性能优化技巧
+   - [setState的同步于异步](https://juejin.im/post/5e6c35a65188254953721691)_`外链`_
 3. Vue.js
    - Vue.js 源码解读：Vue 数据响应式原理
    - Vue.js 带来的一些新问题以及解决办法探索
