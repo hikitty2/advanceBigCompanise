@@ -35,7 +35,6 @@ description: 帮助前端工程师们夯实技术以通过一线互联网企业�
 2. React
    - React Hooks 究竟是什么？
    - React 的性能优化技巧
-   - [setState 的同步于异步](https://juejin.im/post/5e6c35a65188254953721691)_`外链`_
    - [React setState 合并和批量处理](https://juejin.im/post/5e6c35a65188254953721691)_`外链`_
    - [React 高频面试题梳理，看看面试怎么答？（上）](https://mp.weixin.qq.com/s/3jmJgZFktP2NMT8XLvdIKQ)_`外链`_
    - [React 原生动态加载-源码解析](https://juejin.im/post/5eca7abbe51d457884468391?utm_source=gold_browser_extension)_`外链`_
@@ -51,6 +50,8 @@ description: 帮助前端工程师们夯实技术以通过一线互联网企业�
 6. 好书推荐
    - [《深入浅出 Vue.js》](https://book.douban.com/subject/32581281/)_`外链`_
    - [《深入 React 技术栈》](https://book.douban.com/subject/26918038/)_`外链`_
+7. 手写原理函数
+   - [手写async await的最简实现](https://mp.weixin.qq.com/s/ykrZZxCoC8O8D__Qimrtrg)_`外链`_
    
 ### 面经
    - [新东方](https://juejin.im/post/5eaa7b7d6fb9a0432e5debc3)_`外链`_
